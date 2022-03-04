@@ -1,5 +1,5 @@
-var images = [ "https://images-na.ssl-images-amazon.com/images/I/51-8FZDrnsL._SX258_BO1,204,203,200_.jpg" ,  "E:\dilip pvkk\02\KRA_5796.JPGE:\dilip pvkk\02\KRA_5804.JPG"]
-var names = [ "The Family Book", "Me, (My) Father, Mother, Grandmother, Grandfather "]
+var images = [ "https://images-na.ssl-images-amazon.com/images/I/51-8FZDrnsL._SX258_BO1,204,203,200_.jpg" ,  "https://drive.google.com/uc?export=view&id=1LpcveTSK6PAK5lYYPaN2Gf1oImmxakw_"]
+var names = [ "The Family Book", "Me, (My) Father, Mother "]
 var i = 0;
 function update()
 {
